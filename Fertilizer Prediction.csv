@@ -1,0 +1,93 @@
+Crop Type,Nitrogen,Phosphorous,Potassium,Temparature,Humidity ,Moisture,Soil Type,Fertilizer Name
+Maize,37,0,0,26,52,38,Sandy,Urea
+Sugarcane,12,36,0,29,52,45,Loamy,DAP
+Cotton,7,30,9,34,65,62,Black,14-35-14
+Tobacco,22,20,0,32,62,34,Red,28-28
+Paddy,35,0,0,28,54,46,Clayey,Urea
+Barley,12,13,10,26,52,35,Sandy,17-17-17
+Cotton,9,10,0,25,50,64,Red,20-20
+Wheat,41,0,0,33,64,50,Loamy,Urea
+Millets,21,18,0,30,60,42,Sandy,28-28
+Oil seeds,9,30,7,29,58,33,Black,14-35-14
+Pulses,13,40,0,27,54,28,Clayey,DAP
+Maize,14,12,15,31,62,48,Sandy,17-17-17
+Cotton,36,0,0,25,50,65,Loamy,Urea
+Paddy,24,22,0,32,62,41,Clayey,28-28
+Ground Nuts,14,41,0,26,52,31,Red,DAP
+Sugarcane,10,14,13,31,62,49,Black,17-17-17
+Pulses,38,0,0,33,64,34,Clayey,Urea
+Barley,21,19,0,25,50,39,Sandy,28-28
+Cotton,39,0,0,28,54,65,Black,Urea
+Wheat,13,36,0,29,58,52,Loamy,DAP
+Millets,10,9,0,30,60,44,Sandy,20-20
+Sugarcane,12,12,14,34,65,53,Loamy,17-17-17
+Tobacco,11,37,0,35,68,33,Red,DAP
+Millets,36,0,0,28,54,37,Black,Urea
+Paddy,13,10,0,33,64,39,Clayey,20-20
+Maize,23,20,0,26,52,44,Sandy,28-28
+Cotton,9,29,9,30,60,63,Red,14-35-14
+Sugarcane,38,0,0,32,62,30,Loamy,Urea
+Oil seeds,12,39,0,37,70,32,Black,DAP
+Pulses,14,13,0,26,52,36,Clayey,20-20
+Ground Nuts,24,23,0,29,58,40,Red,28-28
+Sugarcane,12,40,0,30,60,27,Loamy,DAP
+Paddy,39,0,0,34,65,38,Clayey,Urea
+Barley,7,30,9,36,68,38,Sandy,14-35-14
+Wheat,23,19,0,26,52,48,Loamy,28-28
+Millets,41,0,0,28,54,35,Black,Urea
+Cotton,8,31,10,30,60,61,Loamy,14-35-14
+Paddy,12,41,0,37,70,37,Clayey,DAP
+Ground Nuts,15,11,14,25,50,26,Red,17-17-17
+Millets,15,37,0,29,58,34,Sandy,DAP
+Pulses,13,13,0,27,54,30,Clayey,20-20
+Sugarcane,10,32,7,30,60,58,Loamy,14-35-14
+Tobacco,22,24,0,32,62,34,Red,28-28
+Sugarcane,35,0,0,34,65,60,Black,Urea
+Barley,10,35,0,35,67,42,Sandy,DAP
+Wheat,8,28,8,38,70,48,Loamy,14-35-14
+Oil seeds,12,8,0,26,52,32,Black,20-20
+Paddy,24,18,0,29,58,43,Clayey,28-28
+Ground Nuts,41,0,0,30,60,29,Red,Urea
+Maize,5,29,9,33,64,51,Sandy,14-35-14
+Tobacco,23,21,0,34,65,31,Red,28-28
+Oil seeds,13,14,0,36,68,33,Black,20-20
+Pulses,40,0,0,28,54,38,Clayey,Urea
+Barley,12,42,0,30,60,47,Sandy,DAP
+Cotton,11,15,12,31,62,63,Red,17-17-17
+Millets,23,24,0,27,53,43,Black,28-28
+Wheat,38,0,0,34,65,54,Loamy,Urea
+Millets,8,15,0,29,58,37,Sandy,20-20
+Sugarcane,11,15,13,25,50,56,Loamy,17-17-17
+Ground Nuts,15,37,0,32,62,34,Red,DAP
+Paddy,36,0,0,28,54,41,Clayey,Urea
+Wheat,13,9,0,30,60,49,Loamy,20-20
+Cotton,24,20,0,34,65,64,Black,28-28
+Oil seeds,37,0,0,27,53,35,Black,Urea
+Cotton,15,40,0,36,68,62,Red,DAP
+Sugarcane,9,13,0,34,65,57,Black,20-20
+Sugarcane,8,33,8,29,58,55,Loamy,14-35-14
+Millets,10,14,0,30,60,38,Sandy,20-20
+Pulses,21,23,0,26,52,39,Clayey,28-28
+Tobacco,39,0,0,31,62,32,Red,Urea
+Wheat,23,19,0,34,65,48,Loamy,28-28
+Oil seeds,42,0,0,27,53,34,Black,Urea
+Ground Nuts,13,39,0,33,64,31,Red,DAP
+Paddy,9,22,10,29,58,42,Clayey,14-35-14
+Maize,22,21,0,30,60,47,Sandy,28-28
+Sugarcane,10,15,0,27,53,59,Loamy,20-20
+Cotton,14,38,0,34,65,63,Red,DAP
+Paddy,10,29,8,28,54,43,Clayey,14-35-14
+Millets,41,0,0,30,60,40,Sandy,Urea
+Cotton,14,35,0,29,58,65,Black,DAP
+Sugarcane,11,9,0,26,52,59,Loamy,20-20
+Barley,21,28,0,31,62,44,Sandy,28-28
+Pulses,8,31,7,35,67,28,Clayey,14-35-14
+Millets,35,0,0,27,53,30,Black,Urea
+Cotton,11,38,0,29,58,61,Loamy,DAP
+Oil seeds,8,30,9,30,60,26,Black,14-35-14
+Ground Nuts,41,0,0,36,68,41,Red,Urea
+Maize,9,30,10,28,54,25,Sandy,14-35-14
+Pulses,24,19,0,25,50,32,Clayey,28-28
+Wheat,39,0,0,38,72,51,Loamy,Urea
+Millets,15,41,0,36,60,43,Sandy,DAP
+Sugarcane,12,10,0,29,58,57,Black,20-20
